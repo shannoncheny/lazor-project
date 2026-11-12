@@ -1,0 +1,12 @@
+Optimized solution for mad_1.bff
+
+Solved board:
+o o C o
+o o o A
+A o o o
+o o o o
+
+Movable block positions:
+A: (0, 2)
+C: (2, 0)
+A: (3, 1)
